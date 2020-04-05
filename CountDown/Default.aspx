@@ -202,7 +202,7 @@
                     <div class="row">
                         <h1><i class="fa fa-bomb"></i></h1>
                         <h1 class="time-title">Count Down</h1>
-                        <p><strong>Set up your countdown time and click Start!</strong></p>
+                        <p><strong>Set up your countdown time and click Start.</strong></p>
                     </div>
 
                     <div class="row">
