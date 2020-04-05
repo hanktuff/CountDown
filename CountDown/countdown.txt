@@ -1,0 +1,19 @@
+﻿
+
+
+To Do:
+===========================
+
+- footer
+- show and hide sections
+- Options: allow cancel
+- Options: feedback with sound
+- validate input
+
+- Options: go to url afterwards
+- Create URL (copy and paste)
+- Create count down towards a date
+- Options: play a sound when done
+- Options: delay start
+- Options: allow cancel only up to
+

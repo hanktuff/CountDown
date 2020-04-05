@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDown", "CountDown\CountDown.csproj", "{C354B86C-2754-46BA-80DB-32DB90BD100F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C354B86C-2754-46BA-80DB-32DB90BD100F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C354B86C-2754-46BA-80DB-32DB90BD100F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C354B86C-2754-46BA-80DB-32DB90BD100F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C354B86C-2754-46BA-80DB-32DB90BD100F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA50DCE-A446-4936-ACCD-AC36497C2E1F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://hanktuff.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CountDown\\CountDown.csproj
+		SccProjectName1 = CountDown
+		SccLocalPath1 = CountDown
+	EndGlobalSection
+EndGlobal
